@@ -1,6 +1,6 @@
 # flutter_book_keeping
 
-An application that keeps records of receipts of transactions
+An application that keeps records of receipts of transactions. It allows you to take a picture of the receipt, choose the category of the expenses, save iit, update it, delete it, and also view the receipt based on the category
 
 ## Getting Started
 
