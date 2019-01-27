@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage>
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
                 Text(
-                  "Rekeeper",
+                  "Receipt keeper",
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 20,
