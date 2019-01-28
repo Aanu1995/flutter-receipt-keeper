@@ -20,7 +20,7 @@ class DisplayImage extends StatelessWidget{
             height:320.0,
             decoration: BoxDecoration(
               shape: BoxShape.rectangle,
-              color: Colors.grey.withOpacity(0.5),
+              color: Colors.black54,
               image: DecorationImage(
                   image: AssetImage("assets/empty2.png"),
                   fit: BoxFit.contain),

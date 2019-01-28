@@ -27,6 +27,7 @@ dependencies:
   connectivity:
   fluttertoast:
   cached_network_image:
+  font_awesome_flutter:
 
 
 dev_dependencies:
